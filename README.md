@@ -1,3 +1,6 @@
+<div style="position: relative; overflow: hidden; width: 100%; height: 300px;">
+  <img src="https://i.gifer.com/J4o.gif" alt="Banner GIF" style="width: 100%; height: auto; position: absolute; top: 0; left: 0;">
+</div>
 <h1 align="center">Hi 👋, I'm Sayali Marathe</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
